@@ -1,0 +1,26 @@
+#form-box {
+    display: block;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    background-color: aqua;
+}
+
+#search-box {
+    display: block;
+    width: 500px;
+    padding: 10px;
+    position: relative;
+    margin-top: 150px;
+    left: 30%;
+    background-color: aqua;
+}
+
+#profile {
+    display: block;
+    padding: 10px;
+}
+
+#content-box {
+    margin-bottom: 200px;
+}
